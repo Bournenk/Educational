@@ -1,2 +1,2 @@
 # Educational
-Project's of ongoing and completed courses.
+Projects of ongoing and completed courses.
